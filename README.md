@@ -7,4 +7,4 @@ Após estudar e aprimorar meus conhecimentos sobre Git e GitHub, criei meu respo
 Irei criar pastas de estudos, organizadas por data e área de estudo.
 A primeira será sobre o boot camp Full Stack da MRV.
 
-**Meu perfil no <a href="https://www.linkedin.com/in/alexander-santos32">LinkedIn</a>**.
+**Meus perfis no <a href="https://www.linkedin.com/in/alexander-santos32">LinkedIn</a>** e <a href="https://web.dio.me/users/asantos_tic?tab=achievements">DIO</a>.
